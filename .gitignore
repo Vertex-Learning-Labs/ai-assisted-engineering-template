@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editors
+.vs/
+.idea/
+*.user
+*.swp
+
+# Build output — extend for the project's language once this template is used
+bin/
+obj/
+dist/
+build/
+node_modules/
